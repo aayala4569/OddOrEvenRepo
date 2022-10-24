@@ -1,0 +1,15 @@
+/Users/Angelica/Documents/Night Class Lectures/Assignments/OddOrEven/OddOrEvenRepo/bin/Debug/net6.0/OddOrEvenRepo
+/Users/Angelica/Documents/Night Class Lectures/Assignments/OddOrEven/OddOrEvenRepo/bin/Debug/net6.0/OddOrEvenRepo.deps.json
+/Users/Angelica/Documents/Night Class Lectures/Assignments/OddOrEven/OddOrEvenRepo/bin/Debug/net6.0/OddOrEvenRepo.runtimeconfig.json
+/Users/Angelica/Documents/Night Class Lectures/Assignments/OddOrEven/OddOrEvenRepo/bin/Debug/net6.0/OddOrEvenRepo.dll
+/Users/Angelica/Documents/Night Class Lectures/Assignments/OddOrEven/OddOrEvenRepo/bin/Debug/net6.0/OddOrEvenRepo.pdb
+/Users/Angelica/Documents/Night Class Lectures/Assignments/OddOrEven/OddOrEvenRepo/obj/Debug/net6.0/OddOrEvenRepo.csproj.AssemblyReference.cache
+/Users/Angelica/Documents/Night Class Lectures/Assignments/OddOrEven/OddOrEvenRepo/obj/Debug/net6.0/OddOrEvenRepo.GeneratedMSBuildEditorConfig.editorconfig
+/Users/Angelica/Documents/Night Class Lectures/Assignments/OddOrEven/OddOrEvenRepo/obj/Debug/net6.0/OddOrEvenRepo.AssemblyInfoInputs.cache
+/Users/Angelica/Documents/Night Class Lectures/Assignments/OddOrEven/OddOrEvenRepo/obj/Debug/net6.0/OddOrEvenRepo.AssemblyInfo.cs
+/Users/Angelica/Documents/Night Class Lectures/Assignments/OddOrEven/OddOrEvenRepo/obj/Debug/net6.0/OddOrEvenRepo.csproj.CoreCompileInputs.cache
+/Users/Angelica/Documents/Night Class Lectures/Assignments/OddOrEven/OddOrEvenRepo/obj/Debug/net6.0/OddOrEvenRepo.dll
+/Users/Angelica/Documents/Night Class Lectures/Assignments/OddOrEven/OddOrEvenRepo/obj/Debug/net6.0/refint/OddOrEvenRepo.dll
+/Users/Angelica/Documents/Night Class Lectures/Assignments/OddOrEven/OddOrEvenRepo/obj/Debug/net6.0/OddOrEvenRepo.pdb
+/Users/Angelica/Documents/Night Class Lectures/Assignments/OddOrEven/OddOrEvenRepo/obj/Debug/net6.0/OddOrEvenRepo.genruntimeconfig.cache
+/Users/Angelica/Documents/Night Class Lectures/Assignments/OddOrEven/OddOrEvenRepo/obj/Debug/net6.0/ref/OddOrEvenRepo.dll
