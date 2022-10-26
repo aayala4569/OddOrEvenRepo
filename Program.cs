@@ -7,9 +7,9 @@
 //I created an if statement to determine if the user input is even or odd
 
 
-//Reviewed by:
-//Date:
-//Review:
+//Reviewed by: Mauricio Zavaña
+//Date: 25/10/2022
+//Review: Great job!!!
 
 
 int result;
